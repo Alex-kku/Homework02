@@ -1,11 +1,8 @@
-#include <iostream>
-
-using namespace std;
-
+#include <iosrteam>
 int main()
 {
-	string name;
-	getline(cin, name);
-	cout << "Hello world from " << name << endl;
-	return 0;
+    std::string name;
+    getline(cin, name);
+    std::cout << "Hello world from " << name << std::endl;
+    return 0;
 }
