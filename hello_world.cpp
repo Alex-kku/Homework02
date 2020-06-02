@@ -1,4 +1,4 @@
-#include <iosrteam> 
+ #include <iosrteam> 
 int main()
 {
     std::string name;
